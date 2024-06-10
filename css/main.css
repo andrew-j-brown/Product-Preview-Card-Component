@@ -80,6 +80,7 @@ body {
 }
 
 .product-price--original {
+  font-size: 0.8rem;
   font-weight: 500;
   color: hsl(228, 12%, 48%);
   text-decoration: line-through;
