@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/andrew-j-brown/Product-Preview-Card-Component)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://andrew-j-brown.github.io/Product-Preview-Card-Component/)
 
 ## My process
 
